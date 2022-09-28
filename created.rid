@@ -1,0 +1,20 @@
+Wed, 28 Sep 2022 01:17:54 +0000
+README.md	Wed, 28 Sep 2022 01:17:44 +0000
+LICENCE	Wed, 28 Sep 2022 01:17:44 +0000
+CHANGES.md	Wed, 28 Sep 2022 01:17:44 +0000
+lib/cff.rb	Wed, 28 Sep 2022 01:17:44 +0000
+lib/cff/entity.rb	Wed, 28 Sep 2022 01:17:44 +0000
+lib/cff/errors.rb	Wed, 28 Sep 2022 01:17:44 +0000
+lib/cff/file.rb	Wed, 28 Sep 2022 01:17:44 +0000
+lib/cff/formatter/apa_formatter.rb	Wed, 28 Sep 2022 01:17:44 +0000
+lib/cff/formatter/bibtex_formatter.rb	Wed, 28 Sep 2022 01:17:44 +0000
+lib/cff/formatter/formatter.rb	Wed, 28 Sep 2022 01:17:44 +0000
+lib/cff/identifier.rb	Wed, 28 Sep 2022 01:17:44 +0000
+lib/cff/index.rb	Wed, 28 Sep 2022 01:17:44 +0000
+lib/cff/licensable.rb	Wed, 28 Sep 2022 01:17:44 +0000
+lib/cff/model_part.rb	Wed, 28 Sep 2022 01:17:44 +0000
+lib/cff/person.rb	Wed, 28 Sep 2022 01:17:44 +0000
+lib/cff/reference.rb	Wed, 28 Sep 2022 01:17:44 +0000
+lib/cff/util.rb	Wed, 28 Sep 2022 01:17:44 +0000
+lib/cff/validatable.rb	Wed, 28 Sep 2022 01:17:44 +0000
+lib/cff/version.rb	Wed, 28 Sep 2022 01:17:44 +0000
